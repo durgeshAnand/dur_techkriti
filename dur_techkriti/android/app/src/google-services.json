@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1003651363073",
+    "project_id": "dur-techkriti",
+    "storage_bucket": "dur-techkriti.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1003651363073:android:f0066d9ffffe686a5aeb00",
+        "android_client_info": {
+          "package_name": "com.example.dur_techkriti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1003651363073-s21qs176sfookle7lahrqptsp0aad7oj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3gsVAU5-SkpY_uUDBg59YBTSfXxDSv5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1003651363073-s21qs176sfookle7lahrqptsp0aad7oj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
